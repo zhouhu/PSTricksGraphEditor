@@ -1,6 +1,6 @@
 PSTricks Graph Editor
 ===================
 
-A Java SE desktop program, providing a convenient, user friendly interface for drawing PSTricks graphs, and can automatically generate the PSTricks commands according to the graph objects on its interface. User can free from recalling the complicated PSTricks commands by just copying &amp; pasting the generated commands into any LaTeX documents.
+A Java SE desktop program, providing a convenient, user friendly interface for drawing PSTricks graphs, and can automatically generate the PSTricks commands. User just need to copy &amp; past the generated codes into any LaTeX documents to add the PSTricks graphs.
 
 http://GraphEditor.PSTricks.org
